@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Education"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Course on Introduction to Computational Social Science",
+          "description": "Master level course materials by Aliakbar Akbaritabar at the University of Rostock",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-17T20:17:55Z",
+            "owner": "akbaritabar",
+            "repo": "Course_introduction_to_computational_social_science",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Course on Computational approaches to migration research",
+          "description": "Master level course materials by Aliakbar Akbaritabar at the University of Rostock",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-18T13:37:16Z",
+            "owner": "akbaritabar",
+            "repo": "Course_computational_approaches_to_migration_research",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Online Courses and Material"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "University Course Programs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "R Course Material for Communication Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-27T14:27:08Z",
+            "owner": "ccs-amsterdam",
+            "repo": "r-course-material",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Computational Social Science Methods with Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-15T21:45:04Z",
+            "owner": "gesiscss",
+            "repo": "css_methods_python",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": "(other lists: 1, 2, 3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Data Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T14:39:24Z",
+            "owner": "academic",
+            "repo": "awesome-datascience",
+            "stars": 29806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deep Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome NLP",
+          "description": "(another one)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T20:57:17Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome R",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-18T16:46:19Z",
+            "owner": "qinwf",
+            "repo": "awesome-R",
+            "stars": 6495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Jupyter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T00:08:17Z",
+            "owner": "markusschanta",
+            "repo": "awesome-jupyter",
+            "stars": 4659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Data Science with Python",
+          "description": "(another)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T21:22:52Z",
+            "owner": "r0f1",
+            "repo": "datascience",
+            "stars": 4648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Data Visualization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-26T12:36:48Z",
+            "owner": "hal9ai",
+            "repo": "awesome-dataviz",
+            "stars": 4377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Network Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-17T18:25:35Z",
+            "owner": "briatte",
+            "repo": "awesome-network-analysis",
+            "stars": 4093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Notebooks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-21T10:10:48Z",
+            "owner": "jupyter-naas",
+            "repo": "awesome-notebooks",
+            "stars": 3009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome MySQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T06:11:52Z",
+            "owner": "shlomi-noach",
+            "repo": "awesome-mysql",
+            "stars": 2603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Community Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-20T17:06:00Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-community-detection",
+            "stars": 2448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Quarto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T09:37:08Z",
+            "owner": "mcanouil",
+            "repo": "awesome-quarto",
+            "stars": 2156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Digital Humanities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-23T15:05:43Z",
+            "owner": "dh-tech",
+            "repo": "awesome-digital-humanities",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Causality",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-19T02:42:47Z",
+            "owner": "napsternxg",
+            "repo": "awesome-causality",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Scholarly Data Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-30T17:55:13Z",
+            "owner": "napsternxg",
+            "repo": "awesome-scholarly-data-analysis",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Open Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2025-11-12T17:21:43Z",
+            "owner": "silky",
+            "repo": "awesome-open-science",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Research Software Registries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-25T23:06:50Z",
+            "owner": "NLeSC",
+            "repo": "awesome-research-software-registries",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Relevant Awesome Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:00:14.965Z",
+    "original_repository": "gesiscss/awesome-computational-social-science",
+    "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
+    "enhanced_repository": "enhansome/enhansome-computational-social-science",
+    "enhanced_repository_description": null,
+    "title": "Awesome Computational Social Science with stars"
+  }
+}
