@@ -97,7 +97,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314016
+            "stars": 314195
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74034
+            "stars": 74046
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29820
+            "stars": 29825
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28756
+            "stars": 28761
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6495
+            "stars": 6496
           }
         },
         {
@@ -178,10 +178,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T00:00:29Z",
+            "last_commit": "2026-08-15T23:59:10Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4660
+            "stars": 4661
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-11T21:22:52Z",
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4647
+            "stars": 4648
           }
         },
         {
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:58:27.036Z",
+    "last_updated": "2026-08-16T05:02:22.398Z",
     "original_repository": "gesiscss/awesome-computational-social-science",
     "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
     "enhanced_repository": "enhansome/enhansome-computational-social-science",
