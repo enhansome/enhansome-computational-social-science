@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314195
+            "stars": 314363
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74046
+            "stars": 74037
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29825
+            "stars": 29832
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28761
+            "stars": 28769
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-07-11T20:57:17Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18905
+            "stars": 18906
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6496
+            "stars": 6497
           }
         },
         {
@@ -178,10 +178,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T23:59:10Z",
+            "last_commit": "2026-08-16T23:59:06Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4661
+            "stars": 4660
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-11T21:22:52Z",
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4648
+            "stars": 4650
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4380
+            "stars": 4379
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3009
+            "stars": 3008
           }
         },
         {
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:02:22.398Z",
+    "last_updated": "2026-08-17T05:10:33.117Z",
     "original_repository": "gesiscss/awesome-computational-social-science",
     "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
     "enhanced_repository": "enhansome/enhansome-computational-social-science",
