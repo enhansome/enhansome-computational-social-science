@@ -50,6 +50,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome R",
+              "description": "for general resources in R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22003158,
+                "language": "R",
+                "last_commit": "2025-09-18T16:46:19Z",
+                "owner": "qinwf",
+                "repo": "awesome-R",
+                "stars": 6507
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Python",
+              "description": "(other lists: 1, 2, 3) for general resources in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21289110,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:42:58Z",
+                "owner": "vinta",
+                "repo": "awesome-python",
+                "stars": 315800
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "R Course Material for Communication Science",
               "description": null,
               "children": [],
@@ -98,10 +142,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-23T08:02:10Z",
+            "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315728
+            "stars": 315800
           }
         },
         {
@@ -116,7 +160,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74133
+            "stars": 74141
           }
         },
         {
@@ -131,7 +175,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29857
+            "stars": 29859
           }
         },
         {
@@ -146,7 +190,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28801
+            "stars": 28804
           }
         },
         {
@@ -176,7 +220,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6506
+            "stars": 6507
           }
         },
         {
@@ -221,7 +265,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4386
+            "stars": 4387
           }
         },
         {
@@ -236,7 +280,7 @@
             "last_commit": "2026-08-20T13:22:11Z",
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -266,7 +310,7 @@
             "last_commit": "2026-08-17T12:26:05Z",
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2608
+            "stars": 2609
           }
         },
         {
@@ -379,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:20:28.339Z",
+    "last_updated": "2026-08-24T14:15:55.526Z",
     "original_repository": "gesiscss/awesome-computational-social-science",
     "original_repository_id": 591046304,
     "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
