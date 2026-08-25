@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315910
+                "stars": 315918
               }
             }
           ],
@@ -145,7 +145,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315910
+            "stars": 315918
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-17T12:26:05Z",
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2609
+            "stars": 2610
           }
         },
         {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:07:29.411Z",
+    "last_updated": "2026-08-25T06:07:53.262Z",
     "original_repository": "gesiscss/awesome-computational-social-science",
     "original_repository_id": 591046304,
     "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
