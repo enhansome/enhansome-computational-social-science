@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316379
+                "stars": 316421
               }
             }
           ],
@@ -145,7 +145,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316379
+            "stars": 316421
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
+            "stars": 74180
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28814
+            "stars": 28815
           }
         },
         {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:15.225Z",
+    "last_updated": "2026-08-27T15:25:15.564Z",
     "original_repository_info": {
       "archived": false,
       "id": 591046304,
