@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials, slides, hands-on code and assignments for the course \"Introduction to computational social science\" for the 2025 edition",
+                "homepage": null,
                 "id": 959680123,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T20:17:55Z",
+                "open_issues": 2,
                 "owner": "akbaritabar",
                 "repo": "Course_introduction_to_computational_social_science",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials, slides, hands-on code and assignments for the course \"Computational Approaches to Migration Research\" for the 2026-2027 edition",
+                "homepage": null,
                 "id": 1030868931,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-18T13:37:16Z",
+                "open_issues": 0,
                 "owner": "akbaritabar",
                 "repo": "Course_computational_approaches_to_migration_research",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             }
@@ -57,12 +67,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome R packages, frameworks and software.",
+                "homepage": null,
                 "id": 22003158,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-09-18T16:46:19Z",
+                "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6506
+                "stars": 6507,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-analysis",
+                  "data-science",
+                  "list",
+                  "r",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             }
@@ -80,12 +103,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316707
+                "stars": 316806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             }
@@ -103,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of R tutorials",
+                "homepage": null,
                 "id": 147201448,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-27T14:27:08Z",
+                "open_issues": 3,
                 "owner": "ccs-amsterdam",
                 "repo": "r-course-material",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             },
@@ -119,12 +159,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full course of self-explanatory and freely available materials on CSS methods",
+                "homepage": null,
                 "id": 483703345,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-15T21:45:04Z",
+                "open_issues": 1,
                 "owner": "gesiscss",
                 "repo": "css_methods_python",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "data-science",
+                  "jupyter-notebook",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:52:00.067Z"
             }
@@ -146,12 +195,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316707
+            "stars": 316806,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -162,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74198
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -178,12 +244,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29885
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -194,12 +276,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28824
+            "stars": 28828,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -210,12 +307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 47184304,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
+            "open_issues": 15,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18938
+            "stars": 18940,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "language",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -226,12 +337,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome R packages, frameworks and software.",
+            "homepage": null,
             "id": 22003158,
             "language": "R",
+            "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
+            "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6506
+            "stars": 6507,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-analysis",
+              "data-science",
+              "list",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -242,12 +366,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Jupyter projects, libraries and resources",
+            "homepage": null,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-28T02:24:47Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-28T23:57:55Z",
+            "open_issues": 17,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663
+            "stars": 4663,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "data-visualization",
+              "frontend",
+              "ipython",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -258,12 +401,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of Python resources for data science.",
+            "homepage": null,
             "id": 158673445,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-11T21:22:52Z",
+            "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4658
+            "stars": 4658,
+            "topics": [
+              "artificial-intelligence",
+              "awesome",
+              "awesome-list",
+              "bayes",
+              "data-analysis",
+              "data-mining",
+              "data-science",
+              "data-visualization",
+              "datascience",
+              "deep-learning",
+              "deeplearning",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -274,12 +437,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+            "homepage": null,
             "id": 39454666,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-26T12:36:48Z",
+            "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4390
+            "stars": 4391,
+            "topics": [
+              "awesome-list",
+              "chart",
+              "data-visualization",
+              "dataviz",
+              "visualization",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -290,12 +465,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome network analysis resources.",
+            "homepage": "http://f.briatte.org/r/awesome-network-analysis-list",
             "id": 55921016,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-20T13:22:11Z",
+            "open_issues": 17,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4101
+            "stars": 4101,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "complex-networks",
+              "disease-networks",
+              "graph-theory",
+              "historical-networks",
+              "list",
+              "network-analysis",
+              "network-science",
+              "network-visualization",
+              "political-networks",
+              "semantic-networks",
+              "sna",
+              "social-network-analysis",
+              "social-networks"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -306,12 +502,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
+            "homepage": "https://naas.ai/search",
             "id": 299951448,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-21T10:10:48Z",
+            "open_issues": 116,
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3015
+            "stars": 3015,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab",
+              "naas",
+              "notebooks-templates",
+              "opensource",
+              "python",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -322,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+            "homepage": null,
             "id": 32276625,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T12:26:05Z",
+            "open_issues": 17,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2610
+            "stars": 2610,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -338,12 +557,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of community detection research papers with implementations. ",
+            "homepage": null,
             "id": 152444880,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T17:06:00Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "bigclam",
+              "clustering",
+              "community-detection",
+              "data-science",
+              "deep-learning",
+              "deepwalk",
+              "dimensionality-reduction",
+              "embedding",
+              "factorization",
+              "graph-clustering",
+              "igraph",
+              "machine-learning",
+              "matrix-factorization",
+              "network-analysis",
+              "network-clustering",
+              "network-science",
+              "networkx",
+              "node2vec",
+              "social-network",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -354,12 +599,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+            "homepage": null,
             "id": 519771271,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T09:37:08Z",
+            "open_issues": 0,
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2169
+            "stars": 2170,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "quarto",
+              "quarto-extension",
+              "quarto-template"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -370,12 +626,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software for humanities scholars using quantitative or computational methods.",
+            "homepage": "https://dh-tech.github.io/awesome-digital-humanities/",
             "id": 99738996,
             "language": "SCSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-19T04:59:58Z",
+            "open_issues": 4,
             "owner": "dh-tech",
             "repo": "awesome-digital-humanities",
-            "stars": 408
+            "stars": 408,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dh-resources",
+              "dh-tools",
+              "digital-humanities"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -386,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources related to causality",
+            "homepage": "https://shubhanshu.com/awesome-causality/",
             "id": 175134743,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-02-19T02:42:47Z",
+            "open_issues": 2,
             "owner": "napsternxg",
             "repo": "awesome-causality",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -402,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources. ",
+            "homepage": "https://shubhanshu.com/awesome-scholarly-data-analysis/",
             "id": 73843845,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-30T17:55:13Z",
+            "open_issues": 4,
             "owner": "napsternxg",
             "repo": "awesome-scholarly-data-analysis",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -418,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "some links to projects/tools related to \"open science\".",
+            "homepage": null,
             "id": 24077732,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2025-11-12T17:21:43Z",
+            "open_issues": 0,
             "owner": "silky",
             "repo": "awesome-open-science",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         },
@@ -434,12 +716,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Research Software Registries",
+            "homepage": null,
             "id": 210369455,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-25T23:06:50Z",
+            "open_issues": 18,
             "owner": "NLeSC",
             "repo": "awesome-research-software-registries",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
         }
@@ -448,15 +738,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:52:00.067Z",
+    "last_updated": "2026-08-29T04:35:41.118Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome resources for Computational Social Science",
+      "homepage": null,
       "id": 591046304,
       "language": "R",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-26T09:49:13Z",
+      "open_issues": 5,
       "owner": "gesiscss",
       "repo": "awesome-computational-social-science",
-      "stars": 936
+      "stars": 936,
+      "topics": [
+        "awesome-list",
+        "computational-social-science",
+        "network-analysis",
+        "python",
+        "rstats",
+        "text-mining"
+      ]
     },
     "original_repository_sha": "a1e57e45f25764f6496ff795fa1c674ad01a1be2",
     "enhanced_repository": "enhansome/enhansome-computational-social-science",
