@@ -73,7 +73,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2025-09-18T16:46:19Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "qinwf",
                 "repo": "awesome-R",
                 "stars": 6507,
@@ -112,7 +112,7 @@
                 "open_issues": 18,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316881,
+                "stars": 317097,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,7 +204,7 @@
             "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316881,
+            "stars": 317097,
             "topics": [
               "awesome",
               "awesome-list",
@@ -229,10 +229,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74203,
+            "stars": 74213,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29889,
+            "stars": 29893,
             "topics": [
               "analytics",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28830,
+            "stars": 28836,
             "topics": [
               "awesome",
               "awesome-list",
@@ -313,10 +313,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18941,
+            "stars": 18947,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
             "stars": 6507,
@@ -372,10 +372,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T23:57:55Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663,
+            "stars": 4662,
             "topics": [
               "awesome",
               "awesome-list",
@@ -446,7 +446,7 @@
             "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4391,
+            "stars": 4401,
             "topics": [
               "awesome-list",
               "chart",
@@ -474,7 +474,7 @@
             "open_issues": 17,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4101,
+            "stars": 4103,
             "topics": [
               "awesome",
               "awesome-list",
@@ -511,7 +511,7 @@
             "open_issues": 116,
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3015,
+            "stars": 3016,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:18:32.243Z",
+    "last_updated": "2026-08-30T10:04:16.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
