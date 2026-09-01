@@ -108,11 +108,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T04:08:40Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-01T08:48:12Z",
+                "open_issues": 16,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 317278,
+                "stars": 317510,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -200,11 +200,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T04:08:40Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-01T08:48:12Z",
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317278,
+            "stars": 317510,
             "topics": [
               "awesome",
               "awesome-list",
@@ -232,7 +232,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74224,
+            "stars": 74232,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -250,10 +250,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29904,
+            "stars": 29910,
             "topics": [
               "analytics",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28839,
+            "stars": 28843,
             "topics": [
               "awesome",
               "awesome-list",
@@ -316,7 +316,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18950,
+            "stars": 18953,
             "topics": [
               "awesome",
               "awesome-list",
@@ -371,7 +371,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-30T23:57:58Z",
+            "last_commit": "2026-08-31T23:57:59Z",
             "open_issues": 18,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -446,7 +446,7 @@
             "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4402,
+            "stars": 4404,
             "topics": [
               "awesome-list",
               "chart",
@@ -542,7 +542,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-17T12:26:05Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
             "stars": 2611,
@@ -566,7 +566,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450,
+            "stars": 2449,
             "topics": [
               "bigclam",
               "clustering",
@@ -635,7 +635,7 @@
             "open_issues": 4,
             "owner": "dh-tech",
             "repo": "awesome-digital-humanities",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:05:09.221Z",
+    "last_updated": "2026-09-01T09:33:34.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
