@@ -76,7 +76,7 @@
                 "open_issues": 29,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6508,
+                "stars": 6507,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -109,10 +109,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T08:48:12Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 320128,
+                "stars": 320325,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -201,10 +201,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 320128,
+            "stars": 320325,
             "topics": [
               "awesome",
               "awesome-list",
@@ -228,11 +228,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T17:30:34Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-12T14:34:25Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74307,
+            "stars": 74317,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 5,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29967,
+            "stars": 29969,
             "topics": [
               "analytics",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 85,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28893,
+            "stars": 28900,
             "topics": [
               "awesome",
               "awesome-list",
@@ -316,7 +316,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18986,
+            "stars": 18988,
             "topics": [
               "awesome",
               "awesome-list",
@@ -346,7 +346,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6508,
+            "stars": 6507,
             "topics": [
               "awesome",
               "awesome-list",
@@ -407,8 +407,8 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-11T23:57:56Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-12T23:58:05Z",
+            "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4666,
@@ -545,7 +545,7 @@
             "open_issues": 20,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2614,
+            "stars": 2613,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -566,7 +566,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2449,
+            "stars": 2450,
             "topics": [
               "bigclam",
               "clustering",
@@ -608,7 +608,7 @@
             "open_issues": 0,
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2175,
+            "stars": 2176,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:46:38.348Z",
+    "last_updated": "2026-09-13T09:41:10.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
@@ -750,7 +750,7 @@
       "open_issues": 5,
       "owner": "gesiscss",
       "repo": "awesome-computational-social-science",
-      "stars": 940,
+      "stars": 941,
       "topics": [
         "awesome-list",
         "computational-social-science",
