@@ -108,11 +108,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T22:11:03Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-20T15:48:45Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 321815,
+                "stars": 322025,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -200,11 +200,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T22:11:03Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-20T15:48:45Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321815,
+            "stars": 322025,
             "topics": [
               "awesome",
               "awesome-list",
@@ -232,7 +232,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74378,
+            "stars": 74382,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30023,
+            "stars": 30038,
             "topics": [
               "analytics",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 87,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28939,
+            "stars": 28942,
             "topics": [
               "awesome",
               "awesome-list",
@@ -313,10 +313,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19016,
+            "stars": 19022,
             "topics": [
               "awesome",
               "awesome-list",
@@ -361,6 +361,41 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome Jupyter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome Jupyter projects, libraries and resources",
+            "homepage": null,
+            "id": 101582879,
+            "language": null,
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-09-21T07:43:32Z",
+            "open_issues": 7,
+            "owner": "markusschanta",
+            "repo": "awesome-jupyter",
+            "stars": 4673,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "data-visualization",
+              "frontend",
+              "ipython",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-08-28T16:52:00.067Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awesome Data Science with Python",
           "description": "(another)",
           "children": [],
@@ -375,7 +410,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4671,
+            "stars": 4672,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -397,41 +432,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome Jupyter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Jupyter projects, libraries and resources",
-            "homepage": null,
-            "id": 101582879,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-19T23:58:06Z",
-            "open_issues": 10,
-            "owner": "markusschanta",
-            "repo": "awesome-jupyter",
-            "stars": 4671,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "data-science",
-              "data-visualization",
-              "frontend",
-              "ipython",
-              "jupyter",
-              "jupyter-notebook",
-              "jupyterhub",
-              "jupyterlab",
-              "jupyterlab-extension",
-              "python",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T16:52:00.067Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Data Visualization",
           "description": null,
           "children": [],
@@ -446,7 +446,7 @@
             "open_issues": 45,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4413,
+            "stars": 4414,
             "topics": [
               "awesome-list",
               "chart",
@@ -474,7 +474,7 @@
             "open_issues": 19,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4115,
+            "stars": 4114,
             "topics": [
               "awesome",
               "awesome-list",
@@ -511,7 +511,7 @@
             "open_issues": 116,
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3016,
+            "stars": 3017,
             "topics": [
               "awesome",
               "awesome-list",
@@ -542,7 +542,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T09:51:23Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
             "stars": 2614,
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:25:07.482Z",
+    "last_updated": "2026-09-21T10:09:38.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
