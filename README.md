@@ -1,9 +1,9 @@
 # Awesome Computational Social Science with stars
 
-> An [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,842 | 🐛 105 | 📅 2026-09-02 curated list of
+> An [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,203 | 🐛 105 | 📅 2026-09-02 curated list of
 > resources for Computational Social Science.
 > Inspired by [Awesome Network
-> Analysis](https://github.com/briatte/awesome-network-analysis) ⭐ 4,127 | 🐛 20 | 🌐 R | 📅 2026-08-20 and others.
+> Analysis](https://github.com/briatte/awesome-network-analysis) ⭐ 4,128 | 🐛 22 | 🌐 R | 📅 2026-08-20 and others.
 
 The order of entries within categories is either alphabetically or
 chronologically.
@@ -411,11 +411,11 @@ chronologically.
 
 ### R
 
-* [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,520 | 🐛 28 | 🌐 R | 📅 2025-09-18 for general resources in R
+* [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,521 | 🐛 28 | 🌐 R | 📅 2025-09-18 for general resources in R
 
 ### Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 327,290 | 🐛 18 | 🌐 Python | 📅 2026-10-12 (other lists: [1](https://github.com/kirang89/pycrumbs) ⭐ 3,252 | 🐛 9 | 📅 2023-07-04, [2](https://github.com/svaksha/pythonidae) ⭐ 1,048 | 🐛 5 | 🌐 Julia | 📅 2023-07-04, [3](https://github.com/trekhleb/learn-python) ⭐ 18,378 | 🐛 43 | 🌐 Python | 📅 2026-04-06) for general resources in Python
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 327,541 | 🐛 19 | 🌐 Python | 📅 2026-10-15 (other lists: [1](https://github.com/kirang89/pycrumbs) ⭐ 3,251 | 🐛 9 | 📅 2023-07-04, [2](https://github.com/svaksha/pythonidae) ⭐ 1,048 | 🐛 5 | 🌐 Julia | 📅 2023-07-04, [3](https://github.com/trekhleb/learn-python) ⭐ 18,380 | 🐛 43 | 🌐 Python | 📅 2026-04-06) for general resources in Python
 
 ### Tutorials
 
@@ -437,21 +437,21 @@ chronologically.
 
 ## Relevant Awesome Lists
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 327,290 | 🐛 18 | 🌐 Python | 📅 2026-10-12 (other lists: [1](https://github.com/kirang89/pycrumbs) ⭐ 3,252 | 🐛 9 | 📅 2023-07-04, [2](https://github.com/svaksha/pythonidae) ⭐ 1,048 | 🐛 5 | 🌐 Julia | 📅 2023-07-04, [3](https://github.com/trekhleb/learn-python) ⭐ 18,378 | 🐛 43 | 🌐 Python | 📅 2026-04-06)
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,581 | 🐛 25 | 🌐 Python | 📅 2026-10-13
-* [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 30,148 | 🐛 16 | 📅 2026-10-13
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,046 | 🐛 88 | 📅 2025-05-26
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,075 | 🐛 1 | 📅 2026-10-12 ([another one](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 18 | 📅 2019-04-02)
-* [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,520 | 🐛 28 | 🌐 R | 📅 2025-09-18
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,679 | 🐛 1 | 📅 2026-10-01 ([another](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,612 | 🐛 24 | 📅 2026-04-13)
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-14
-* [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,431 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13
-* [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) ⭐ 4,127 | 🐛 20 | 🌐 R | 📅 2026-08-20
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 327,541 | 🐛 19 | 🌐 Python | 📅 2026-10-15 (other lists: [1](https://github.com/kirang89/pycrumbs) ⭐ 3,251 | 🐛 9 | 📅 2023-07-04, [2](https://github.com/svaksha/pythonidae) ⭐ 1,048 | 🐛 5 | 🌐 Julia | 📅 2023-07-04, [3](https://github.com/trekhleb/learn-python) ⭐ 18,380 | 🐛 43 | 🌐 Python | 📅 2026-04-06)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,587 | 🐛 25 | 🌐 Python | 📅 2026-10-13
+* [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 30,161 | 🐛 11 | 📅 2026-10-13
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,049 | 🐛 90 | 📅 2025-05-26
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,076 | 🐛 2 | 📅 2026-10-12 ([another one](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 18 | 📅 2019-04-02)
+* [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,521 | 🐛 28 | 🌐 R | 📅 2025-09-18
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,679 | 🐛 1 | 📅 2026-10-01 ([another](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,613 | 🐛 24 | 📅 2026-04-13)
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-15
+* [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,432 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13
+* [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) ⭐ 4,128 | 🐛 22 | 🌐 R | 📅 2026-08-20
 * [Awesome Notebooks](https://github.com/jupyter-naas/awesome-notebooks) ⭐ 3,018 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2024-10-21
-* [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,616 | 🐛 25 | 🌐 Python | 📅 2026-10-08
+* [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,617 | 🐛 25 | 🌐 Python | 📅 2026-10-08
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,454 | 🐛 0 | 🌐 Python | 📅 2025-12-20
 * [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) ⭐ 2,185 | 🐛 0 | 📅 2026-09-10
-* [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities) ⭐ 419 | 🐛 10 | 🌐 SCSS | 📅 2026-09-09
+* [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities) ⭐ 421 | 🐛 10 | 🌐 SCSS | 📅 2026-09-09
 * [Awesome Causality](https://github.com/napsternxg/awesome-causality) ⭐ 274 | 🐛 3 | 📅 2024-02-19
 * [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis) ⭐ 209 | 🐛 9 | 📅 2025-07-30
 * [Awesome Open Science](https://github.com/silky/awesome-open-science) ⚠️ Archived
@@ -465,4 +465,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
