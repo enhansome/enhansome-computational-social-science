@@ -112,7 +112,7 @@
                 "open_issues": 23,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 334444,
+                "stars": 334662,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,7 +204,7 @@
             "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334444,
+            "stars": 334662,
             "topics": [
               "awesome",
               "awesome-list",
@@ -232,7 +232,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74814,
+            "stars": 74821,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30324,
+            "stars": 30330,
             "topics": [
               "analytics",
               "awesome-list",
@@ -316,7 +316,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19154,
+            "stars": 19157,
             "topics": [
               "awesome",
               "awesome-list",
@@ -371,11 +371,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-13T03:40:16Z",
+            "last_commit": "2026-11-14T03:39:10Z",
             "open_issues": 16,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4695,
+            "stars": 4696,
             "topics": [
               "awesome",
               "awesome-list",
@@ -410,7 +410,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4689,
+            "stars": 4691,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -566,7 +566,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2455,
+            "stars": 2454,
             "topics": [
               "bigclam",
               "clustering",
@@ -680,7 +680,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-07-30T17:55:13Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "napsternxg",
             "repo": "awesome-scholarly-data-analysis",
             "stars": 209,
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:32:02.412Z",
+    "last_updated": "2026-11-14T11:41:19.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
