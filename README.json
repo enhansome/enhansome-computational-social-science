@@ -108,11 +108,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T05:14:16Z",
+                "last_commit": "2026-11-14T17:06:55Z",
                 "open_issues": 23,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 334662,
+                "stars": 334882,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -200,11 +200,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T05:14:16Z",
+            "last_commit": "2026-11-14T17:06:55Z",
             "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334662,
+            "stars": 334882,
             "topics": [
               "awesome",
               "awesome-list",
@@ -232,7 +232,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74821,
+            "stars": 74832,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30330,
+            "stars": 30333,
             "topics": [
               "analytics",
               "awesome-list",
@@ -316,7 +316,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19157,
+            "stars": 19158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -371,7 +371,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-14T03:39:10Z",
+            "last_commit": "2026-11-15T03:12:54Z",
             "open_issues": 16,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4460,
+            "stars": 4463,
             "topics": [
               "awesome-list",
               "chart",
@@ -474,7 +474,7 @@
             "open_issues": 23,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4151,
+            "stars": 4150,
             "topics": [
               "awesome",
               "awesome-list",
@@ -511,7 +511,7 @@
             "open_issues": 117,
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3019,
+            "stars": 3020,
             "topics": [
               "awesome",
               "awesome-list",
@@ -632,10 +632,10 @@
             "language": "SCSS",
             "license": "CC0-1.0",
             "last_commit": "2026-11-11T08:51:48Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "dh-tech",
             "repo": "awesome-digital-humanities",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:41:19.621Z",
+    "last_updated": "2026-11-15T12:10:42.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
