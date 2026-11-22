@@ -76,7 +76,7 @@
                 "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6546,
+                "stars": 6547,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -112,7 +112,7 @@
                 "open_issues": 22,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 336167,
+                "stars": 336382,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,7 +204,7 @@
             "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 336167,
+            "stars": 336382,
             "topics": [
               "awesome",
               "awesome-list",
@@ -228,11 +228,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T19:27:12Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-21T15:46:05Z",
+            "open_issues": 38,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74867,
+            "stars": 74879,
             "topics": []
           },
           "first_seen": "2026-08-28T16:52:00.067Z"
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30352,
+            "stars": 30356,
             "topics": [
               "analytics",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 91,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29217,
+            "stars": 29219,
             "topics": [
               "awesome",
               "awesome-list",
@@ -316,7 +316,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19177,
+            "stars": 19178,
             "topics": [
               "awesome",
               "awesome-list",
@@ -346,7 +346,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6546,
+            "stars": 6547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -371,11 +371,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-21T04:19:16Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-22T03:33:06Z",
+            "open_issues": 17,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4698,
+            "stars": 4700,
             "topics": [
               "awesome",
               "awesome-list",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4695,
+            "stars": 4697,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -443,7 +443,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T21:52:21Z",
-            "open_issues": 2,
+            "open_issues": 5,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
             "stars": 4465,
@@ -474,7 +474,7 @@
             "open_issues": 23,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4156,
+            "stars": 4158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -542,7 +542,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T08:13:12Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
             "stars": 2619,
@@ -632,10 +632,10 @@
             "language": "SCSS",
             "license": "CC0-1.0",
             "last_commit": "2026-11-11T08:51:48Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "dh-tech",
             "repo": "awesome-digital-humanities",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:56:05.812Z",
+    "last_updated": "2026-11-22T12:47:56.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Computational Social Science",
